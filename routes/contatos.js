@@ -52,3 +52,8 @@ router.put('/contatos/:id', (req, res) => {
 
 // exportar o router
 module.exports = router
+
+// create - Cadastrar
+// read - Ler
+// Update - Atualizar
+// Delete - Excluir
